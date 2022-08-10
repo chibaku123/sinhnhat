@@ -104,8 +104,8 @@ a {
 }
 
 .cover {
-    width: 240px;
-    height: 240px;
+    width: 100px;
+    height: 100px;
    
     box-shadow: 0 0 30px #eee;
     position: absolute;
